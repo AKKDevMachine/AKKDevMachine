@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=AKK%20개발%20머신)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKKDevMachine)]
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev9309)](https://solved.ac/dev9309)
 
 <!--
 **AKKDevMachine/AKKDevMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
