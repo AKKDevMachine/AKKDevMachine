@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=AKK%20개발%20머신)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=AKK%20Developer)
 
 <br>
 <br>
