@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STACKS 📚</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -30,9 +30,15 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKKDevMachine)]
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev9309)](https://solved.ac/dev9309)
+
+<div align=center><h1>✨ NOW ✨</h1></div>
+
+<div align=center>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKKDevMachine)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev9309)](https://solved.ac/dev9309)
+
+</div>
 
 <!--
 **AKKDevMachine/AKKDevMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
